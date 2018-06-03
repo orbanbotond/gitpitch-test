@@ -7,13 +7,12 @@ Lead Dev at meeteor.com
 Rails Dev at toptal.com
 ---
 Hozzáadott érték
-Idő
-Fókusz figyelem
-Érték
+- Idő
+- Fókusz figyelem
 ---
 Erőforrásaink:
-Idő
-Fókusz
+- Idő
+- Fókusz
 ---
 Vannak:
 Lehetőségek
